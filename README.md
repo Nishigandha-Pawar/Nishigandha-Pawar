@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Nishigandha Pawar!
 
-<!--
-**Nishigandha-Pawar/Nishigandha-Pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently Aspiring Data Scientist 
+- 🌱 I’m currently learning ...📊 Data Analyst | SQL | Python | Statistics | PowerBI | Data Storyteller 📈📉
+  
+💡 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• SQL
+
+• Python
+
+• PowerBI
+
+• Data Analysis
+
+• Statistical Modeling
+
+• Data Visualization
+
+- 🌱 On a mission to turn raw data into actionable intelligence and drive innovation through analytic
+- 
+- 📫 How to reach me:
+  [nishigandhapawar69@gmail.com]
+  [https://linktr.ee/nishigandha.pawar_15]
+
+  #DataAnalytics #Python #DataViz #PowerBI
