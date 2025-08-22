@@ -26,4 +26,4 @@
   
   [https://linktr.ee/nishigandha.pawar_15]
 
-  #DataAnalytics #Python #DataViz #PowerBI
+  #DataAnalytics #Python #Datavisualization #PowerBI
