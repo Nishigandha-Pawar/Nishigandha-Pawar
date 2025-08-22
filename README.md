@@ -9,7 +9,7 @@
     <p>📊 Passionate about <b>SQL | Python | PowerBI | Data Visualization</b></p>
   </div>
   <div>
-    <img src="assets/profile.png" alt="Data Science GIF" width="400",height="300", align="right">
+    <img src="assets/profile.png" alt="Data Science GIF" width="300",height="300", align="right">
   </div>
 </div>
 
