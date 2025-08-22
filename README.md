@@ -5,7 +5,6 @@
 - 🔭 I’m currently Aspiring Data Scientist 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <p>🌱 I'm currently Interning as <b>Data Analyst</b> at <b>KultureHire</b>.</p>
     <p>📊 Passionate about <b>SQL | Python | PowerBI | Data Visualization</b></p>
   </div>
   <div>
