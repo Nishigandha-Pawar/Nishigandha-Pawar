@@ -3,9 +3,17 @@
 ![Banner](assets/banner.gif)
 
 - 🔭 I’m currently Aspiring Data Scientist 
-- 🌱 I’m currently learning ...📊 Data Analyst | SQL | Python | Statistics | PowerBI | Data Storyteller 📈📉
-  
-💡 Skills:                                                                            ![Profile](assets/profile.png)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>🌱 I'm currently Interning as <b>Data Analyst</b> at <b>KultureHire</b>.</p>
+    <p>📊 Passionate about <b>SQL | Python | PowerBI | Data Visualization</b></p>
+  </div>
+  <div>
+    <img src="assets/profile.gif" alt="Data Science GIF" width="300">
+  </div>
+</div>
+
+💡 Skills:                                                                        
 
    • SQL
 
