@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nishigandha Pawar!
+## Hi I'm Nishigandha Pawar!
 
 ![Banner](assets/banner.gif)
 
@@ -7,22 +7,23 @@
   
 💡 Skills:
 
-• SQL
+   • SQL
 
-• Python
+   • Python
 
-• PowerBI
+   • PowerBI
 
-• Data Analysis
+   • Data Analysis
 
-• Statistical Modeling
+   • Statistical Modeling
 
-• Data Visualization
+   • Data Visualization
 
 - 🌱 On a mission to turn raw data into actionable intelligence and drive innovation through analytic
-- 
+  
 - 📫 How to reach me:
   [nishigandhapawar69@gmail.com]
+  
   [https://linktr.ee/nishigandha.pawar_15]
 
   #DataAnalytics #Python #DataViz #PowerBI
