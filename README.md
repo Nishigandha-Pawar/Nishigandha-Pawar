@@ -5,7 +5,7 @@
 - 🔭 I’m currently Aspiring Data Scientist 
 - 🌱 I’m currently learning ...📊 Data Analyst | SQL | Python | Statistics | PowerBI | Data Storyteller 📈📉
   
-💡 Skills:
+💡 Skills:                                                                            ![Profile](assets/profile.png)
 
    • SQL
 
