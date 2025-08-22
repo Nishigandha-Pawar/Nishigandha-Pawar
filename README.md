@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Nishigandha Pawar!
 
+![Banner](assets/banner.gif)
 
 - 🔭 I’m currently Aspiring Data Scientist 
 - 🌱 I’m currently learning ...📊 Data Analyst | SQL | Python | Statistics | PowerBI | Data Storyteller 📈📉
