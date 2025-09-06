@@ -6,14 +6,13 @@
 
 Hi there! I’m Nishigandha Pawar, an aspiring Data Scientist passionate about turning data into actionable insights. My journey is driven by curiosity and a love for exploring patterns that help empower decision-making.
 
----
 
 ## 👩‍🎓 Education & Background
 
 -  A Computer Science Engineering graduate with a passion for data and analytics.
 - Nashik, Maharashtra, India
 
----
+
 
 ## 🌟 What I Do
 
@@ -21,24 +20,23 @@ Hi there! I’m Nishigandha Pawar, an aspiring Data Scientist passionate about t
 ➠ Hands-on experience with real-world data science projects  
 ➠ Focused on mastering machine learning and interactive dashboards
 
----
-✔ Explore My Work
+
+## Explore My Work
 
 Visit my portfolio to see how I’ve transformed data into strategic insights across various projects. 🌐
 
-  ---
+
 - 📫 How to reach me:
   [nishigandhapawar69@gmail.com]
   
----
+
 - 🌐 Portfolio:
   [https://linktr.ee/nishigandha.pawar_15]
 
----
+
 ## 🏆 Licenses & Certifications
 
 - SQL (Basic) - HackerRank
 - MySQL for Beginners - Udemy
 
----
 *Thank you for visiting my profile! Let's connect and turn data into insights together.*
