@@ -2,36 +2,43 @@
 
 ![Banner](assets/banner.gif)
 
-- 🔭 I’m currently Aspiring Data Scientist 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <p>📊 Passionate about <b>SQL | Python | PowerBI | Data Visualization</b></p>
-  </div>
-  <div>
-  
-  </div>
-</div>
+# 💫 About Me
 
-💡 Skills:                                                                        
+Hi there! I’m Nishigandha Pawar, an aspiring Data Scientist passionate about turning data into actionable insights. My journey is driven by curiosity and a love for exploring patterns that help empower decision-making.
 
-   • SQL
+---
 
-   • Python
+## 👩‍🎓 Education & Background
 
-   • PowerBI
+-  A Computer Science Engineering graduate with a passion for data and analytics.
+- Nashik, Maharashtra, India
 
-   • Data Analysis
+---
 
-   • Statistical Modeling
+## 🌟 What I Do
 
-   • Data Visualization
+➠ Skilled in Python, SQL, Power BI, Excel, and Data Visualization  
+➠ Hands-on experience with real-world data science projects  
+➠ Focused on mastering machine learning and interactive dashboards
 
-- 🌱 On a mission to turn raw data into actionable intelligence and drive innovation through analytic
-  
+---
+✔ Explore My Work
+
+Visit my portfolio to see how I’ve transformed data into strategic insights across various projects. 🌐
+
+  ---
 - 📫 How to reach me:
   [nishigandhapawar69@gmail.com]
   
+---
 - 🌐 Portfolio:
   [https://linktr.ee/nishigandha.pawar_15]
 
-  #DataAnalytics #Python #Datavisualization #PowerBI
+---
+## 🏆 Licenses & Certifications
+
+- SQL (Basic) - HackerRank
+- MySQL for Beginners - Udemy
+
+---
+*Thank you for visiting my profile! Let's connect and turn data into insights together.*
