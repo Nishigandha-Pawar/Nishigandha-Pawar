@@ -9,7 +9,7 @@ Hi there! I’m Nishigandha Pawar, an aspiring Data Scientist passionate about t
 
 ## 👩‍🎓 Education & Background
 
--  A Computer Science graduate with a passion for data and analytics.
+  A Computer Science graduate with a passion for data and analytics.
 
 
 ## 🌟 What I Do
