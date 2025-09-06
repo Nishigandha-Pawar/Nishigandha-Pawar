@@ -21,7 +21,7 @@ Hi there! I’m Nishigandha Pawar, an aspiring Data Scientist passionate about t
 ➠ Focused on mastering machine learning and interactive dashboards
 
 
-## Explore My Work
+## ✔Explore My Work
 
 Visit my portfolio to see how I’ve transformed data into strategic insights across various projects. 🌐
 
