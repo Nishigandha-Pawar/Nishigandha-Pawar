@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-Hi there! I’m Nishigandha Pawar, an aspiring Data Scientist passionate about turning data into actionable insights. My journey is driven by curiosity and a love for exploring patterns that help empower decision-making.
+Hi there! I’m Nishigandha Pawar, an aspiring Data Analyst passionate about turning data into actionable insights. My journey is driven by curiosity and a love for exploring patterns that help empower decision-making.
 
 
 ## 👩‍🎓 Education & Background
@@ -34,6 +34,7 @@ Visit my portfolio to see how I’ve transformed data into strategic insights ac
 
 ## 🏆 Licenses & Certifications
 
+- OdinSchool Data science Bootcamp
 - SQL (Basic) - HackerRank
 - MySQL for Beginners - Udemy
 
