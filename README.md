@@ -29,7 +29,7 @@ Visit my portfolio to see how I’ve transformed data into strategic insights ac
   
 
 - 🌐 Portfolio:
-  [https://linktr.ee/nishigandha.pawar_15]
+  [(https://www.datascienceportfol.io/nishigandhapawar69)]
 
 
 ## 🏆 Licenses & Certifications
