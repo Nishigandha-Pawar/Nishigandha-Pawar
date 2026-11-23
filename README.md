@@ -35,7 +35,7 @@ Visit my portfolio to see how I’ve transformed data into strategic insights ac
 ## 🏆 Licenses & Certifications
 
 - OdinSchool Data science Bootcamp
-- SQL (Basic) - HackerRank
+- SQL (Advanced) - HackerRank
 - MySQL for Beginners - Udemy
 
 *Thank you for visiting my profile! Let's connect and turn data into insights together.*
